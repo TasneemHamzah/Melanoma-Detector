@@ -4,7 +4,7 @@ In this project, I developed a Deep Convolution Neural Network model to classify
 
 The datasets that have been used are PH2dataset and Kaggle Derma Disease dataset.
 
-The research paper link will be published soon.
+The research paper link https://ieeexplore.ieee.org/document/9194205
 
 
 
